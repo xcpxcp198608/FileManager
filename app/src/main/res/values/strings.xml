@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="select">Select</string>
+    <string name="packageName">PackageName:  </string>
+    <string name="apkSize">ApkSize:  </string>
+    <string name="apkVersion">ApkVersion:  </string>
+    <string name="versionCode">VersionCode: </string>
+</resources>
